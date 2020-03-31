@@ -1,1 +1,1 @@
-# React-GoogleMap-ChartJS-Integration
+# ReactJS-GoogleMap-Chart.js-Integration
