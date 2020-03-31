@@ -1,0 +1,49 @@
+.heading{
+    font-size: 300px;
+    text-align: center;
+}
+
+.backButton {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: rgb(218, 215, 205);
+    color: black;
+    border: 2px solid rgb(92, 92, 87);
+    text-align: center;
+    font-size: 28px;
+    padding: 8px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+
+  .backButton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);  
+    background-color: rgba(161, 158, 148, 0.712);
+    }
+  
+  .backButton span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .backButton span:after {
+    content: '\00ab';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: -40px;
+    transition: 0.5s;
+  }
+  
+  .backButton:hover span {
+    padding-left: 25px; 
+  }
+  
+  .backButton:hover span:after {
+    opacity: 1;
+    left: 0;
+  }
