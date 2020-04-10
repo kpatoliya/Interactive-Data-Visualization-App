@@ -7,4 +7,4 @@ Setting up the Project:
 
 
 
-![] (Screenshot.jpg)
+![] (src/Screenshot.jpg)
