@@ -10,9 +10,10 @@ Setting up the Project:
 ![](src/Screenshot.jpg)
 
 
-The primary dataset for this project is New York City's "Demographic Statistic by Zip Code" dataset, which can be downloaded in various forms from the following location:
+The primary dataset for this project is New York City's "Demographic Statistic by Zip Code" dataset, which can be downloaded in various forms from the following location.
 
 https://catalog.data.gov/dataset/demographic-statistics-by-zip-code-acfc9
 
 For a list of zip codes and their latitude and longitude needed for geocoding, the following dataset is used.
+
 https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/information/
