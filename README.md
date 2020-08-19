@@ -1,3 +1,4 @@
+# Interactive Data Visualization App
 # ReactJS-GoogleMap-Chart.js-Integration
 
 Setting up the Project:
